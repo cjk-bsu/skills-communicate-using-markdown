@@ -1,3 +1,5 @@
 # HELLO
 
 ## My name is Carson
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
